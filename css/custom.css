@@ -47,6 +47,9 @@ hr {
 	margin-top: 80px;
 }
 
+footer p {
+	text-align:left
+}
 
 @media screen and (max-width: 768px) {
 	/* 959px以下に適用されるCSS（タブレット用） */
